@@ -10,7 +10,4 @@ you can follow my Github and Blog:
 
 ![Jared Tan's github stats](https://github-readme-stats.vercel.app/api?username=JaredTan95&show_icons=true&hide_border=false)
 
-<table><tr><td valign="top">
-
-![github contribution grid snake animation]([https://raw.githubusercontent.com/erdengk/erdengk/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/JaredTan95/JaredTan95/output/github-contribution-grid-snake.svg#gh-light-mode-only))
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/JaredTan95/JaredTan95/output/github-contribution-grid-snake.svg)
